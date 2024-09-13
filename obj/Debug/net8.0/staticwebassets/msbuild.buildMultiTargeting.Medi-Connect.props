@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Medi-Connect.props" />
+</Project>
