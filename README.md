@@ -1,5 +1,5 @@
 # Medi-Connect:
-Medi-Connect is a comprehensive, responsive web-based clinic management system developed using the Model-View-Controller (MVC) pattern in ASP.NET Core. It is designed to streamline clinic operations, including managing doctors, and laboratory operations.
+Medi-Connect is a responsive web-based clinic management system developed using the Model-View-Controller (MVC) pattern in ASP.NET Core. It is designed to streamline clinic operations, including managing doctors, and laboratory operations.
 
 ## Features
 - **Admin Panel**: Manage doctors, laboratorians, and other staff.
